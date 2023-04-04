@@ -1,0 +1,15 @@
+{
+  "name": "atv01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avg.js",
+  "scripts": {
+    "start": "node avg.js",
+    "test": "jest"
+  },
+  "author": "Prof. Gustavo Leitão",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
